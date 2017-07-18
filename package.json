@@ -1,0 +1,25 @@
+{
+  "name": "i18n-country-code",
+  "version": "1.0.0",
+  "description": "Translations for country codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vtex/i18n-country-code.git"
+  },
+  "keywords": [
+    "i18n",
+    "country",
+    "code",
+    "locales"
+  ],
+  "author": "Breno Calazans (@breno_calazans)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vtex/i18n-country-code/issues"
+  },
+  "homepage": "https://github.com/vtex/i18n-country-code#readme"
+}
