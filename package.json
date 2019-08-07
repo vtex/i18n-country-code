@@ -1,6 +1,6 @@
 {
   "name": "i18n-country-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Translations for country codes",
   "main": "index.js",
   "scripts": {
